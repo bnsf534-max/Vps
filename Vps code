@@ -1,0 +1,3 @@
+bash <(curl -fsSL
+
+https://raw.githubusercontent.com/hopingboyz/hkvm/main/v2.sh)
